@@ -85,11 +85,13 @@ B. The process of Interaction Design
 
        C. User Experience
        
+       RCBC
+       
        Positive
        1.The interface design is simple and easy to operate, proper labels and appropriate lights are placed where it is needed to allow the users locate it easily
        2.When it comes to safety, it assures that the users privacy is secured by placing covers to the pad and implementing the process of encryption
        3.Multiple functions are provided allowing the user have  a greater control, it is vey useful especially in case of emergencies
-       4.Graphics that are implemented is not harmful to the eye, it is simple and colors used is appropriate
+       4.Graphics that are implemented are not harmful to the eye, it is simple and colors used is appropriate
        
        Negative
        1.It lacks constraints such as limitation of entering an amount divisible by 100, this can cause errors to the user by entering a wrong amount.
@@ -99,6 +101,10 @@ B. The process of Interaction Design
 
        QUESTIONS
        
+       1.) Are the safety features enough to ensure the safety of the users? did they consider the safety of the locations where the machines are erected?
+       2.) Will the users be able to maximize the functions of the atm? Or are there any irrelevant functions that comes along with the machine?
+       3.) How can you evaluate the design interface of the atm? is it simple? minimalistic? text-heavy or graphics heavy?
+       4.) Are the machines well maintained? are the buttons and screen responsive to physical actions?(clicking, pressing etc.)
        
       
       
@@ -108,19 +114,21 @@ B. The process of Interaction Design
        1.Has a female voice-over to guide you and instruct you.
        2.Lights are not disturbing and has a security camera.
        3.The keypad has cover over your hands to hide your pin when entering it.
-       4.Has arrows to direct you to the button which you should press.
-       It also has light guiding for you to know what is coming out of the machine. (e.g. Receipt, ATM card)
+       4.Has arrows to direct you to the button which you should press. It also has light guiding for you to know what is coming out of the machine. (e.g. Receipt, ATM card)
       
        Negative
        1.Does not have confirmations before every transaction.
-       2.It is not consistent with other machines in the entering of the pin. (Some machines require you to press 
-       enter after you typed your pin)
+       2.It is not consistent with other machines in the entering of the pin. (Some machines require you to press enter after you typed your pin)
        3.The receipt is sometimes slow in coming out. Some users will tend to forget to get theirs.
-       4.If the machine does not have money, it does not inform the user in the withdraw option until the entry of 
-       amount.
+       4.If the machine does not have money, it does not inform the user in the withdraw option until the entry of amount.
 
        QUESTIONS
-     
+       
+       1.) Do all Metrobank ATM machines function similarly? are the functions and instructions the same for every Metrobank machine, or do they vary?
+       2.) Is the machine successful in terms of providing quality, fast, and reliable transactions to users? or does it fail in some aspect that would somehow waste a user's time?
+       3.) Does the design of the machine give users a peace of mind when performing transactions? does it ensure the safety of its users by providing certain objects/components to make one's transaction more secure?
+       4.) Can a user navigate with ease when performing transactions? what key features does the machine have that ensures accurate and fast transactions for a user?
+       
      
      
      
@@ -141,111 +149,20 @@ B. The process of Interaction Design
 
        QUESTIONS
        
-     
+     1.) Does the machine require that a user have high-knowledge in operating similar electronic machines? can a person who's not technologically inclined still be able to maximize the use of functions of the atm?
+     2.) Are transactions time efficient? if there are instructions provided, are they clear and direct? or will they just confuse more the users?
+     3.) Will users feel safe upon using the machine? are the machines erected in secure and safe areas?
+     4.) Are the atm machines well maintained? externally and internally (is the software up to date) -- justify
      
      
      
      
        D. Usability Goals
        
-       1. Effective to use (effectiveness)
-       - The user is able to experience the three main transactions that an ATM is designed for. It is to Withdraw, Deposit and Check the balance of the account. 
-       -it has provided the appropriate functions that make it possible to accomplish the three main task
-
-       2. Efficient to use (efficiency)
-       - You can withdraw, check your balance, and deposit with ease. Transactions are quick and straightforward and can be done in a short period of time, there are no erroneous information present in the machine that can cause errors 
-       - Money is immediately released from the machine the moment the user confirms the transaction. The process of Withdrawing did not take long. 
- 
-       3. Safe to use (safety)
-       - The ATM gives out a message regarding additional charges that would occur upon transaction (If your card was issued abroad, 200 pesos would be charged)
-       -it provides signals or warning on every action to avoid undesired transactions and make sure that users does not commit errors
-
-       4. Having good utility (utility)
-       - Despite the fact that a user could Withdraw, Deposit and Check one’s balance, a user also is given the option to pay his/her utility bills through the ATM. 
-       - It has access with the leading companies in banking (CITIBANK, Standard Chartered and HSBC)
-
-       5. Easy to learn (learnability)
-       -there are provided instructions for every page, it signals the user what to input on that particular field that will allow him/her to know easily what action to be performed
-       -only simple process is needed, labels of buttons are simple and straightforward,
-       -by just pressing the buttons with its given function, it is possible to accomplish task. No other complicated actions are needed.
-
-       6. Easy to remember how to use (memorability)
-       -Even though there are multiple services provided by the ATM machine, it is memorable because of the buttons accommodated with simple labels provided, it is only a simple process to operate the machine, by just clicking buttons with their given functions, the task could be accomplished. No other extra activities are required.
-
-       
-       QUESTIONS
        
        
        
-       
-       
-       
-       
-       
-       
-       
-       METROBANK
-       
-       1. Effective to use
-       -The machine is effective to use in certain aspects as withdrawing is of great ease with the machine. Balance inquiry seeking with this machine is also fast and reliable as after transaction the database is automatically updated not like other ATMs. 
 
-       2. Efficient to use
-       -The machine offers its users the capability to check their account balances, deposit and withdraw money as soon as possible. ATMs rarely have maintenance check-ups and it is always efficient in handing out money to the users.
-       
-       3. Safe to use (safety)
-       -While entering your pin in this machine, you are automatically eased and feel the safety because of the cover bridge on your hands while you are entering your pin code. The machine also offers a security camera to record every movement of the user and protect him/her from certain danger like holdups.
-
-
-       4. Having good utility (utility)
-       -The machine has a good utility. This is so because it has many functions that allow the user to pay with those other services. A good example of this is the bills paying of certain cable and internet bills. It is also a 3-in-1 account because it allows you to select within Checking, Savings or Credit account.
-
-       5. Easy to learn (learnability)
-       -The interface is simple and easy to navigate to. The machine uses voice-over to aid users on what to do on a step-by-step process. It also has directional arrows for the user to know what buttons to press.
-
-       6. Easy to remember how to use (memorability)
-       -Users will not find a hard time remembering how to use the ATM because the interface is consistent on all the transactions. The design is also the same as the different ATMs. The way it is easy to remember to use is just of the pressing of the buttons.
-
-       QUESTIONS
-
-
-
-
-
-
-        Sterling Bank of Asia
-
-       1. Effective to use (effectiveness)
-       -Sterling’s ATM can do an ATM’s basic functions (withrawal and balance inquiry).
-       - It also provides deposit and payment function for different companies, groups and agencies.
-
-       2. Efficient to use (efficiency)
-       - The card can be inserted  and retrieved fluidly.
-       -It shows important information that should be known specially by the users on the screen.
-       -Receipts are available.
-       -It has cash inside to give during withdrawals. 
-
-       3. Safe to use (safety)
-       - The light and colors could easily damage the eyes when used for more than around a minute.
-       -The ATM  isn’t guarded well and its location is too public for a withdrawal machine..
-
-       4. Having good utility (utility)
-       -The buttons at the sides of the monitor serve their function well as they’re easy  to understand and use by the users with low computer literacy.
-       -It provides bank account information that are important/critical for the users if left unknown such as account balances.
-
-       5. Easy to learn (learnability)
-       -The buttons and keypads are easy to learn, although it might take some time for the user to learn all the ropes around all the ATM’s services offered.
-       -Basic functions are specially made easy to control for users.
-
-       6. Easy to remember how to use (memorability)
-       -With only a few buttons, one could easily remember what to push and type. If forgotten, the screen always guides you step-by-step.
-       -The steps are easy to follow and memorize as there are patterns to be spotted when using the machine. (ie. Insert card, pick service, wait for the service, get card... etc. Different ATM’s have different sequences for the functions.)
-
-       QUESTIONS
-       
-       
-       
-       
-       
        E. Usability Criteria
 
 
@@ -253,64 +170,5 @@ B. The process of Interaction Design
        A. Compare and Contrast
        
        B. Design Principles
-         RCBC
-         1. Visibility
-         -The keyboard is placed just below the screen, and it’s the main component on how you will work the machine, it is also color coded to recognize its functions easily. There are also buttons on the side of the screen for the user to choose what function he/she desires.  This buttons are designed in an embossed manner making it as a signal to the user that it is responsive and can be pressed to perform a particular action , the ATM card slot is also labeled and provided with light to let the user know where to insert the card
-         
-         2. Feedback
-         - The user would know if the transaction is complete when the ATM displays the message to claim the Transaction Receipt. 
-         - when a user clicks a button, there is a sound provided to signal that the user has pressed or has interacted with the button, appropriate light are also provided in the atm machine such as when the money is about to go out in the machine a light will appear that serves as a signal, and it is also provided in the atm card slot, allowing the user to know if the atm is ready to accept the atm card
-
-         3. Constraints
-         -it has a limit when it comes to entering the pin code, it does not accept the response of the user such as clicking a number when 6 digits are already entered
-         -some buttons are disabled when it does not have any functions to be offered,
-
-         4. Consistency
-         -Its interface is designed to work the same as other machines, external consistency is also present in the machine such as the usual keypad format, the location of the other buttons and the ATM card is similar to other atm machine. 
-         -when it comes to the interface, the buttons are always placed on the same location for every transaction, when it comes to decision such as yes or no, it is always placed on the right side of the screen, 
-
-         5. Affordance
-         -The buttons of the ATM machine are provided with labels, this signals the user that it is interactive or plays an important role in the machine, the ATM card slot is also labeled properly by letting the user easily recognize its purpose.
-
-
-       
-         METROBANK
-       1.Visibiliy
-	-The buttons are paired with the designated transactions or selections on the screen.  It is aligned just beside the button so that the user will know what button to press.
-       
-       2. Feedback 
-	-The machine responds to various actions starting from the entering of the pin code. The selection of buttons. It plays a beeping sound. The lights also on the ATM card slot and receipt slot shows if the card or receipt is about to go out. It also has a screen dedicated for the transaction process.
-      
-       3. Constraints 
-	-Some constraints of the machine starts from the entering the pin code to the desired limitations of numbers allowed to enter. It also constraints the user not to enter denominations that are not divisible by 100 thereby eliminating the option of entering centavos or have extra amounts. (e.g. 1001)
-      
-       4. Consistency 
-	-The machine itself is consistent with the other ATMs as their designs are almost the same but with different colors and variations. It also uses the conventional keypad and the same operations for the transactions.
-       
-       5. Affordance
-	-The attribute of the machine is of its monitor and screen. The ATM card slot at the side also indicates that a card must be inserted to the machine in order to use it. The slot box at the bottom also allows the users to have an idea that money is to come out of that machine.
-
-       
-       STERLING BANK OF ASIA
-
-       
-       1.Visibility 
-	-Although the buttons beside the screen could be easily seen, it has been hard to use the number pad with its metal cover going against the eyes’ line of vision.
-
-       2.Feedback 
-	-It prompts the user and clearly asks for input through flashing sentences on the screen.
-
-       3.Constraints 
-	-It only has a number pad so that the userswill  not to mistakenly input letters when not needed.
-	-The buttons beside the screen are far enough from the number pad. The users won’t accidentally push the buttons when typing the amount.
-
-       4.Consistency 
-	-All  functions are shown right after inserting the debit card. It is consistent with its interface, always requiring the user to push the button that corresponds with the desired function at first, showing a prompt message, and then asking for input. 
-
-       5. Affordance
-	-All instructions are shown through the screen.
-	-The instructions are easy to understand without intricate and flowery vocabularies. It is straight to the point.
-
-       
        
        C. Reflection
